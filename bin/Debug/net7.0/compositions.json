@@ -1,0 +1,50 @@
+[
+  {
+    "Title": "\u041F?\u0441\u043D\u044F1",
+    "Genre": "\u0420\u043E\u043A",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C2",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u04421",
+    "CreationDate": "2022-06-13T00:00:00",
+    "Duration": 2,
+    "Format": "mp3",
+    "Ratings": {
+      "3,5": 3.5
+    }
+  },
+  {
+    "Title": "\u041F?\u0441\u043D\u044F2 ",
+    "Genre": "\u041F\u043E\u043F",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C1",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u04422",
+    "CreationDate": "2023-02-23T00:00:00",
+    "Duration": 3,
+    "Format": "waw",
+    "Ratings": {
+      "4,8": 4.8
+    }
+  },
+  {
+    "Title": "\u041F?\u0441\u043D\u044F3",
+    "Genre": "\u0414\u0436\u0430\u0437",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C3",
+    "Lyrics": "\u0422\u0435\u043A\u0441\u04423",
+    "CreationDate": "2023-06-21T00:00:00",
+    "Duration": 3,
+    "Format": "mp3",
+    "Ratings": {
+      "": 4.2
+    }
+  },
+  {
+    "Title": "\u0421\u0432\u044F\u0442\u043A\u0443\u0432\u0430\u043D\u043D\u044F \u041D\u043E\u0432\u043E\u0433\u043E \u0420\u043E\u043A\u0443",
+    "Genre": "\u0414\u0436\u0430\u0437",
+    "Artist": "\u0412\u0438\u043A\u043E\u043D\u0430\u0432\u0435\u0446\u044C4",
+    "Lyrics": "\u041D\u043E\u0432\u0438\u0439 \u0440i\u043A",
+    "CreationDate": "2023-12-10T00:00:00",
+    "Duration": 3,
+    "Format": "mp3",
+    "Ratings": {
+      "rating": 4.6
+    }
+  }
+]
